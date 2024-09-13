@@ -55,3 +55,28 @@ My role as a frontend engineer was to implement the website based on a Figma des
    
 ### `Conclusion`
 This project allowed me to gain hands-on experience in frontend development, improve my skills in React and Tailwind CSS, and collaborate with a design and development team to create a professional website.
+
+### `Screenshots`
+
+Main Page:
+![image](https://github.com/user-attachments/assets/29d11354-a261-48a4-83f2-9c551af58128)
+
+Cases:
+![image](https://github.com/user-attachments/assets/d99aaf8c-d35f-4db7-9e22-aca6f3f94560)
+
+Services:
+![image](https://github.com/user-attachments/assets/278434ed-8d41-492f-8019-591b053a7702)
+
+
+Ad Page:
+![image](https://github.com/user-attachments/assets/d1cdb7d0-b15f-4a54-b846-9db791dbaedd)
+
+G-Park Page:
+![image](https://github.com/user-attachments/assets/088d56f4-19fa-4b14-b8b2-923313aace1c)
+
+![image](https://github.com/user-attachments/assets/829d54d0-d3ae-4bdb-b8d5-30815d514dfb)
+
+
+
+
+
