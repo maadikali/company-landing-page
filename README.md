@@ -56,7 +56,7 @@ My role as a frontend engineer was to implement the website based on a Figma des
 ### `Conclusion`
 This project allowed me to gain hands-on experience in frontend development, improve my skills in React and Tailwind CSS, and collaborate with a design and development team to create a professional website.
 
-### `Screenshots`
+### `Sample Screenshots`
 
 Main Page:
 ![image](https://github.com/user-attachments/assets/29d11354-a261-48a4-83f2-9c551af58128)
